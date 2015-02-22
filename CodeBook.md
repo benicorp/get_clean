@@ -1,7 +1,4 @@
----
-title: "Code Book for tidy_averages.txt"
-output: html_document
----
+#Code Book for tidy_averages.txt"
 
 The data contained in this file are the averages of the means and standard deviations calculated for each of the signal measures for each of combination of subject and activity in the Human Activity Recognition Using Smartphones Data Set from the UCI machine learning respository. 
 

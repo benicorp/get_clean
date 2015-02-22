@@ -1,7 +1,5 @@
----
-title: "How run_analysis.R creates tidy_averages.txt"
-output: html_document
----
+#How run_analysis.R creates tidy_averages.txt
+
 
 ##Overview
 
